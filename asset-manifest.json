@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/gnNews/static/js/main.b8215cf2.js",
+    "static/js/787.c6f8f40f.chunk.js": "/gnNews/static/js/787.c6f8f40f.chunk.js",
+    "index.html": "/gnNews/index.html",
+    "main.b8215cf2.js.map": "/gnNews/static/js/main.b8215cf2.js.map",
+    "787.c6f8f40f.chunk.js.map": "/gnNews/static/js/787.c6f8f40f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b8215cf2.js"
+  ]
+}
